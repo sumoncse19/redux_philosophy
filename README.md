@@ -9,4 +9,4 @@ Explore the core concepts of Redux and master state management in React applicat
 - Payload, Actions, and Business Logic - DevTools and Best Practices for TypeScript
 - Middleware, including Custom Middleware
 - Overview of the Module
-- For more explain visit my Notion file - [Link](https://www.notion.so/Learn-Redux-4ced6771ce14447f85a143694b0fe5b9?pvs=4)https://www.notion.so/Learn-Redux-4ced6771ce14447f85a143694b0fe5b9?pvs=4
+- For more explain visit my Notion file - [Link](https://www.notion.so/Learn-Redux-4ced6771ce14447f85a143694b0fe5b9?pvs=4)
